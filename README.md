@@ -1,2 +1,4 @@
 # hello-world
-Just following the guid
+Just following the guide
+
+First change in the new branch.
